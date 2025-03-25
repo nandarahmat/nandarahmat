@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 Graduated from Harisenin.com Fullstack Web Developer Bootcamp<br>👨‍💻 Check out my portfolio here <a href="https://nandarahmatnurdiyan.netlify.app" target="_blank">nandarahmatnurdiyan.netlify.app</a><br>📫 How to reach me: nandarahmatnurdiyan@gmail.com</p>
+<p align="left">👨‍💻 Check out my portfolio here <a href="https://nandarahmatnurdiyan.netlify.app" target="_blank">nandarahmatnurdiyan.netlify.app</a><br>📫 How to reach me: nandarahmatnurdiyan@gmail.com</p>
 
 ###
 
