@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Welcome to my github profile! I'm a passionate web developer currently attending a full-stack web developer bootcamp at <a href="https://harisenin.com" target="_blank">Harisenin</a>. I'm enthusiastic about learning and building exciting projects.</p>
+<p align="left">Welcome to my github profile! I'm a passionate fullstack web developer and I'm enthusiastic about learning and building exciting projects.</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently attending a Fullstack Web Developer Bootcamp at Harisenin.com<br>👨‍💻 Check out my portfolio here <a href="https://nandarahmatnurdiyan.netlify.app" target="_blank">nandarahmatnurdiyan.netlify.app</a><br>📫 How to reach me nandarahmatnurdiyan@gmail.com</p>
+<p align="left">🔭 Graduated from Harisenin.com Fullstack Web Developer Bootcamp<br>👨‍💻 Check out my portfolio here <a href="https://nandarahmatnurdiyan.netlify.app" target="_blank">nandarahmatnurdiyan.netlify.app</a><br>📫 How to reach me: nandarahmatnurdiyan@gmail.com</p>
 
 ###
 
-<h2 align="left">Currently learning</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
