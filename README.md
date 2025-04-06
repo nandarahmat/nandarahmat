@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Check out my portfolio here <a href="https://nandarahmatnurdiyan.netlify.app" target="_blank">nandarahmatnurdiyan.netlify.app</a><br>📫 How to reach me: nandarahmatnurdiyan@gmail.com</p>
+<p align="left">👨‍💻 Check out my portfolio here <a href="https://nandarahmatnurdiyan.netlify.app" target="_blank">nandarahmatnurdiyan.netlify.app</a><br>📫 How to reach me: <a href="mailto:mailto:nandarahmatnurdiyan@gmail.com" target="_blank">nandarahmatnurdiyan@gmail.com</a></p>
 
 ###
 
